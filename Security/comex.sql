@@ -1,0 +1,6 @@
+CREATE SCHEMA [comex]
+    AUTHORIZATION [dbo];
+
+
+GO
+

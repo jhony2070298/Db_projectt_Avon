@@ -1,0 +1,5 @@
+CREATE USER [DESKTOP-G7TIDK1\Admin];
+
+
+GO
+

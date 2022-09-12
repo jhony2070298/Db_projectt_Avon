@@ -1,0 +1,6 @@
+ALTER DATABASE [$(DatabaseName)]
+    ADD FILEGROUP [IDXMAESTROS];
+
+
+GO
+

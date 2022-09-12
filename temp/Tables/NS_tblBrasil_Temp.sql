@@ -1,0 +1,43 @@
+CREATE TABLE [temp].[NS_tblBrasil_Temp] (
+    [YEAR]                       NVARCHAR (250) NULL,
+    [MONTH]                      NVARCHAR (250) NULL,
+    [SHIPMENT REEFERENCE]        NVARCHAR (250) NULL,
+    [ORIGIN REGION]              NVARCHAR (250) NULL,
+    [ORIGIN COUNTRY]             NVARCHAR (250) NULL,
+    [ORIGIN CITY PICK UP]        NVARCHAR (250) NULL,
+    [ORIGIN PORT / AIRPORT NAME] NVARCHAR (250) NULL,
+    [DEST COUNTRY]               NVARCHAR (250) NULL,
+    [DEST CITY]                  NVARCHAR (250) NULL,
+    [DEST PORT / AIRPORT NAME]   NVARCHAR (250) NULL,
+    [MODE]                       NVARCHAR (250) NULL,
+    [TYPE]                       NVARCHAR (250) NULL,
+    [CNT 20 QTY]                 NVARCHAR (250) NULL,
+    [CNT 40 QTY]                 NVARCHAR (250) NULL,
+    [ GROSS WEIGHT ]             NVARCHAR (250) NULL,
+    [ M3 ]                       NVARCHAR (250) NULL,
+    [FREIGHT FORWARDER]          NVARCHAR (250) NULL,
+    [SUPPLIER]                   NVARCHAR (250) NULL,
+    [INCOTERM]                   NVARCHAR (250) NULL,
+    [ PRODUCT COST ]             NVARCHAR (250) NULL,
+    [ FREIGHT VALUE ]            NVARCHAR (250) NULL,
+    [ IMPORT DUTY ]              NVARCHAR (250) NULL,
+    [PICK UP DATE]               NVARCHAR (250) NULL,
+    [SHIP DATE]                  NVARCHAR (250) NULL,
+    [ARRIVAL DATE]               NVARCHAR (250) NULL,
+    [CUSTOM CLEARANCE DATE]      NVARCHAR (250) NULL,
+    [AVON RECEIPT]               NVARCHAR (250) NULL,
+    [QTY PO]                     NVARCHAR (250) NULL,
+    [PRODUCT CATEGORY]           NVARCHAR (250) NULL,
+    [DANGEROUS GOODS]            NVARCHAR (250) NULL,
+    [SPOT SHIPMENT]              NVARCHAR (250) NULL,
+    [INTERNATIONAL INSURANCE]    NVARCHAR (250) NULL,
+    [CUSTOMS EXPENSES]           NVARCHAR (250) NULL,
+    [INLAND FREIGH DEST]         NVARCHAR (250) NULL,
+    [INLAND TRANSPORT COMPANY]   NVARCHAR (250) NULL,
+    [BL]                         NVARCHAR (250) NULL,
+    [COMPANY]                    NVARCHAR (250) NULL
+);
+
+
+GO
+

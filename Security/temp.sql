@@ -1,0 +1,6 @@
+CREATE SCHEMA [temp]
+    AUTHORIZATION [dbo];
+
+
+GO
+

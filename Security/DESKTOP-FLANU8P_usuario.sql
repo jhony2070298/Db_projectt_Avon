@@ -1,0 +1,5 @@
+CREATE USER [DESKTOP-FLANU8P\usuario];
+
+
+GO
+

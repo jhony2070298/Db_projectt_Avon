@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[PRUEBA_DESDE_PYTHON] (
+    [Volume] FLOAT (53) NULL
+);
+
+
+GO
+

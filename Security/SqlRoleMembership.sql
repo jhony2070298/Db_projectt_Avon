@@ -1,0 +1,15 @@
+ALTER ROLE [db_owner] ADD MEMBER [DESKTOP-G7TIDK1\Admin];
+
+
+GO
+
+ALTER ROLE [db_owner] ADD MEMBER [eComex];
+
+
+GO
+
+ALTER ROLE [db_owner] ADD MEMBER [DESKTOP-FLANU8P\usuario];
+
+
+GO
+
